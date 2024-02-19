@@ -7,13 +7,13 @@ Realizar ensaios com algoritmos de Classificação, Regressão e Clusterização
 ### Classificação:
 Algoritmos: KNN, Decision Tree, Random Forest e Logistic Regression
 Métricas de performance: Accuracy, Precision, Recall e F1-Score
-### Regressão:
+### Regressão: (em andamento)
 Algoritmos: Linear Regression, Decision Tree Regressor, Random Forest
 Regressor, Polinomial Regression, Linear Regression Lasso, Linear
 Regression Ridge, Linear Regression Elastic Net, Polinomial Regression
 Lasso, Polinomial Regression Ridge e Polinomial Regression Elastic Net
 Métricas de performance: R2, MSE, RMSE, MAE e MAPE
-### Agrupamento:
+### Agrupamento: (em andamento)
 Algoritmos: K-Means e Affinity Propagation
 Métricas de performance: Silhouette Score
 
